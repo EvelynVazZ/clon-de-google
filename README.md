@@ -4,7 +4,7 @@ Página de búsqueda de Google (clon): Proyecto realizado con la intención de a
 
 * [1. Intro](https://github.com/EvelynVazZ/clon-de-google/blob/main/README.md#1intro)
 * [2. Demo](https://github.com/EvelynVazZ/clon-de-google/blob/main/README.md#2-demo)
-* [3. ¿Qué construirás?](url)
+* [3. ¿Qué construirás?](https://github.com/EvelynVazZ/clon-de-google/blob/main/README.md#3-qu%C3%A9-construir%C3%A1s)
 * [4. Ibjetivos de aprendizaje](url)
 * [5. Requisitos](url)
 
