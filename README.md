@@ -2,7 +2,7 @@
 Página de búsqueda de Google (clon): Proyecto realizado con la intención de aplicar mis conocimientos que adquirí en el bootcamp de Tecnolochicas Pro sSummer camp.
 ## Indice
 
-* [1. Intro](url)
+* [1. Intro]([url](https://github.com/EvelynVazZ/clon-de-google/blob/main/README.md#1intro))
 * [2. Demo](url)
 * [3. ¿Qué construirás?](url)
 * [4. Ibjetivos de aprendizaje](url)
