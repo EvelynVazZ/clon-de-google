@@ -21,7 +21,8 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("")
+![image](https://github.com/EvelynVazZ/clon-de-google/assets/140433810/1eddd2e8-6142-4325-bfff-0eeb2a6faa5f)
+")
 
 
   ## 3. ¿Qué construirás?
